@@ -1,0 +1,180 @@
+{
+  "Header": {
+    "title": "We are a Landing Page",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  },
+  "About": {
+    "paragraph": [
+      "ACIC-BMU Foundation (ACIC-BMU) is set up by BML Munjal University (BMU) along with the support of Atal Innovation Mission (AIM), NITI Aayog to promote and support innovation and entrepreneurship. It focuses on encouraging innovators within the university and the community around the university."
+    ],
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "https://www.bmu.edu.in/acic-propel/contents/1629997918__cover.jpg",
+      "smallImage": "https://www.bmu.edu.in/acic-propel/contents/1629997918__cover.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "https://www.bmu.edu.in/acic-propel/contents/1629997886__cover.jpg",
+      "smallImage": "https://www.bmu.edu.in/acic-propel/contents/1629997886__cover.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "https://www.bmu.edu.in/acic-propel/contents/1629464345__cover.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Physical Facilities",
+      "text": "Furnished office space- coworking and cabin options are available; personal computers (CYOD), telecom facility, internet connectivity, multi-function printer, conference room equipped with projection and tele-presence facilities along with pantry and library resources."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Technical Support",
+      "text": "Helps innovators/startups in the areas of legal services including - IP Protection, patent filing, registration of trademarks, and copyrights etc. along with support in accounting and company secretarial services."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Tinkering Space",
+      "text": "Facilitates the innovators/startups to use Tinkering and Maker Spaces available on BML Munjal University’s campus to develop their prototypes and products."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Experts & Mentors",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Fund Raising",
+      "text": "Facilitates applications for grants from government bodies or corporate venture entities. May also consider providing grant, seed fund/ soft loan subject to the availability of funds/ grants/ schemes meant for the same. The startups will be supported through connections with potential investors for fundraising."
+    },
+
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Industry Connect",
+      "text": "Meetings of innovators/startups with leaders from industries are organised regularly by ACIC-BMU. Connect with ecosystem players like Investors, successful entrepreneurs, service providers is provided to the startups."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Labs & workshops",
+      "text": "Facilitates the incubatee innovators/startups to access the laboratories and other resources of the university for their development purposes. Incubatees can perform development-related activities at the laboratories."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "https://www.bmu.edu.in/acic-propel/images/Mr-Akshay-Munjal.png",
+      "name": "Akshay Munjal",
+      "job": "Director"
+    },
+    {
+      "img": "https://www.bmu.edu.in/acic-propel/images/Mr-Akshay-Munjal.png",
+      "name": "Akshay Munjal",
+      "job": "Director"
+    },
+    {
+      "img": "https://www.bmu.edu.in/acic-propel/images/Mr-Akshay-Munjal.png",
+      "name": "Akshay Munjal",
+      "job": "Director"
+    },
+    {
+      "img": "https://www.bmu.edu.in/acic-propel/images/Mr-Akshay-Munjal.png",
+      "name": "Akshay Munjal",
+      "job": "Director"
+    },
+    {
+      "img": "https://www.bmu.edu.in/acic-propel/images/Mr-Akshay-Munjal.png",
+      "name": "Akshay Munjal",
+      "job": "Director"
+    },
+    {
+      "img": "https://www.bmu.edu.in/acic-propel/images/Mr-Akshay-Munjal.png",
+      "name": "Akshay Munjal",
+      "job": "Director"
+    }
+  ],
+  "Contact": {
+    "address": "BML munjal University,kapriwas,haryana",
+    "phone": "+1 123 456 1234",
+    "email": "acicbmu@mu.edu.in",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+}

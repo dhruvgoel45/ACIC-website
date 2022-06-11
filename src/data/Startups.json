@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "Nurtured Startups",
+    "company": [
+      {
+        "id": 1,
+        "name": "GreenEgg",
+        "founded": "founder 1,founder 2",
+        "year": 2016,
+        "p": "one line intro",
+        "image": "https://www.bmu.edu.in/acic-propel/contents/1629134956__cover.jpg",
+        "know-more": "https://www.bmu.edu.in/acic-propel/contents/1629990872__popup.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Startup 1",
+        "founded": "founder 1,founder 2",
+        "year": 2016,
+        "p": "one line intro",
+        "image": "https://www.bmu.edu.in/acic-propel/contents/1629558809__cover.jpg",
+        "know-more": "limktobeadded"
+      },
+      {
+        "id": 3,
+        "name": "Startup 1",
+        "founded": "founder 1,founder 2",
+        "year": 2016,
+        "p": "one line intro",
+        "image": "https://www.bmu.edu.in/acic-propel/contents/1629558686__cover.jpg",
+        "know-more": "limktobeadded"
+      },
+
+      {
+        "id": 4,
+        "name": "Startup 1",
+        "founded": "founder 1,founder 2",
+        "year": 2016,
+        "p": "one line intro",
+        "image": "https://www.bmu.edu.in/acic-propel/contents/1629559327__cover.jpg",
+        "know-more": "limktobeadded"
+      },
+      {
+        "id": 5,
+        "name": "Startup 1",
+        "founded": "founder 1,founder 2",
+        "year": 2016,
+        "p": "one line intro",
+        "image": "https://www.bmu.edu.in/acic-propel/contents/1629559327__cover.jpg",
+        "know-more": "limktobeadded"
+      },
+      {
+        "id": 6,
+        "name": "Startup 1",
+        "founded": "founder 1,founder 2",
+        "year": 2016,
+        "p": "one line intro",
+        "image": "https://www.bmu.edu.in/acic-propel/contents/1629135025__cover.jpg",
+        "know-more": "limktobeadded"
+      },
+      {
+        "id": 7,
+        "name": "Startup 1",
+        "founded": "founder 1,founder 2",
+        "year": 2016,
+        "p": "one line intro",
+        "image": "https://www.bmu.edu.in/acic-propel/contents/1629559327__cover.jpg",
+        "know-more": "limktobeadded"
+      },
+      {
+        "id": 8,
+        "name": "Startup 1",
+        "founded": "founder 1,founder 2",
+        "year": 2016,
+        "p": "one line intro",
+        "image": "https://www.bmu.edu.in/acic-propel/contents/1629559327__cover.jpg",
+        "know-more": "limktobeadded"
+      },
+      {
+        "id": 9,
+        "name": "Startup 1",
+        "founded": "founder 1,founder 2",
+        "year": 2016,
+        "p": "one line intro",
+        "image": "https://www.bmu.edu.in/acic-propel/contents/1629559327__cover.jpg",
+        "know-more": "limktobeadded"
+      },
+      {
+        "id": 10,
+        "name": "Startup 1",
+        "founded": "founder 1,founder 2",
+        "year": 2016,
+        "p": "one line intro",
+        "image": "https://www.bmu.edu.in/acic-propel/contents/1629559327__cover.jpg",
+        "know-more": "limktobeadded"
+      }
+    ]
+  }
+]
