@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ACIC-website/static/css/main.ae42ac5f.css",
+    "main.js": "/ACIC-website/static/js/main.4f1aab57.js",
+    "index.html": "/ACIC-website/index.html",
+    "main.ae42ac5f.css.map": "/ACIC-website/static/css/main.ae42ac5f.css.map",
+    "main.4f1aab57.js.map": "/ACIC-website/static/js/main.4f1aab57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.4f1aab57.js"
+  ]
+}
